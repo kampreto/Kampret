@@ -1,0 +1,19 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore generated files
+bin/
+gen/
+
+# Ignore built application files
+*.apk
+*.ap_
+
+# Ignore files for the dec VM
+*.dex
+
+# Ignore Java class files
+*.class\
+
+# Ignore local configuration files
+local.properties
