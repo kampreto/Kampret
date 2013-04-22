@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application -->
+    <string name="appPackageName">com.android.kampret</string>
+    <string name="appMvnFamilyID">KAMPRET</string>
+
+    <!-- API Constants -->
+    <string name="APIBaseURLStaging">http://localhost/json</string>
+    <string name="APIBaseURLProduction">http://localhost/json</string>
+</resources>
